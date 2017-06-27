@@ -3,7 +3,7 @@ from setuptools import setup
 install_requires = {
       'os',
       'logging',
-      'yaml'
+      # 'yaml'
 }
 
 setup(name='logger_yaml',
